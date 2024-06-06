@@ -1,0 +1,14 @@
+/Green_Energy_Solutions_Overview.pdf
+/generate_dummy_data.py
+/generate_sample_pdf.py
+/income_classifier.pkl
+/node_modules
+/package-lock.json
+/package.json
+/sample.jsonl
+/sample_data.csv
+/testFineTunedModel.js
+/test_llm.py
+/train_model.py
+/validation.jsonl
+/validation_2.jsonl
